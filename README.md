@@ -1,2 +1,2 @@
-# Dicas
-Dicas Gerais Para Iniciantes
+### Dicas
+Repositório criado para o nosso desafio de projetos DIO

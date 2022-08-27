@@ -1,2 +1,2 @@
 ### Dicas
-Repositório criado para o nosso desafio de projetos DIO
+Repositório criado para o nosso desafio de projetos
